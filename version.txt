@@ -1,0 +1,2 @@
+0.1.7
+message Cryptsy removed, Poloniex added. Welcome back, exchange rates :)
