@@ -2,7 +2,7 @@
 
 DWallet is a decentralized mobile wallet specifically for Doge coin that enables frictionless buying, receiving and sending. Our goal is to make an accessable and easy to use wallet for the masses! On this page you will find all information about the project including the a roadmap and who to contact for support!
 
-![DWallet Logo]('/DWallet Logo.png')
+![DWallet Logo]('/DWallet Logo.jpg')
 
 
 ### Showcase
